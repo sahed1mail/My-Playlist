@@ -1,5 +1,19 @@
 #EXTM3U
 #EXTINF:0 tvg-language="English" tvg-logo="" group-title="Live",Live-1
-http://10.91.91.91:8080/17/index.m3u8
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Live",Live-2
 http://172.17.50.112:84/ant1001/index.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Live",Live-2
+http://172.17.50.112:84/ant1002/index.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Live",Live-3
+http://172.17.50.112:84/ant1003/index.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Live",Live-4
+http://172.17.50.112:84/ant1004/index.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Live",Live-5
+http://172.17.50.112:84/ant1005/index.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Live",Live-6
+http://172.17.50.112:84/ant1006/index.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Live",Live-7
+http://172.17.50.112:84/ant1007/index.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Live",Live-8
+http://172.17.50.112:84/ant1008/index.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Live",Live-9
+http://172.17.50.112:84/ant1009/index.m3u8
