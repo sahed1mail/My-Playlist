@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:0 tvg-language="English" tvg-logo="" group-title="Live",Live-1
-http://172.20.2.5:8082/SPL-1/index.m3u8
+http://10.91.91.91:8080/17/index.m3u8
 #EXTINF:0 tvg-language="English" tvg-logo="" group-title="Live",Live-2
 http://172.17.50.112:84/ant1001/index.m3u8
