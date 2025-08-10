@@ -17,3 +17,5 @@ http://172.17.50.112:84/ant1007/index.m3u8
 http://172.17.50.112:84/ant1008/index.m3u8
 #EXTINF:0 tvg-language="English" tvg-logo="" group-title="Live",Live-9
 http://172.17.50.112:84/ant1009/index.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Live",Live-10
+http://172.20.2.5:8082/STAR-SPORTS-1/index.m3u8
